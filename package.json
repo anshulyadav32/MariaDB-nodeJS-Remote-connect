@@ -1,0 +1,26 @@
+{
+  "name": "mariadr-nodejs-remote-connect",
+  "version": "1.0.0",
+  "description": "This repository contains code and resources for connecting to a remote MariaDB database using Node.js.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulyadav32/MariaDB-nodeJS-Remote-connect.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/anshulyadav32/MariaDB-nodeJS-Remote-connect/issues"
+  },
+  "homepage": "https://github.com/anshulyadav32/MariaDB-nodeJS-Remote-connect#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mariadb": "^3.4.2"
+  }
+}

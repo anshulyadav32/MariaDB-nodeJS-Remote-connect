@@ -1,0 +1,17 @@
+### 2. **Add a `.gitignore` File**
+Create a `.gitignore` file to exclude unnecessary files from version control. Here's an example for a Node.js project:
+
+```plaintext
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+```
